@@ -1,0 +1,53 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Eclipse and IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# Build directories
+/target/
+/bin/
+
+# Maven
+.mvn/
+target/
+
+# Gradle
+.gradle/
+build/
+
+# JDK specific files
+hs_err_pid*
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IntelliJ specific folders
+.idea/
+out/
+
+# NetBeans specific folders
+nbproject/
+
+# Eclipse specific folders
+.metadata/
+
+# Java Web Start cache
+javaws/
+
+# Other Java-related files
+*.jar
+*.war
+*.ear
