@@ -3,7 +3,6 @@
 This is a simple calculator application built with Java. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Getting Started
-
 ### Building and Running the Application
 
 1. Compile the Java files using javac:
@@ -17,3 +16,10 @@ This is a simple calculator application built with Java. It performs basic arith
    ```bash
    java Calculator
    ```
+
+## Preview
+Here’s a preview of the calculator:
+
+   ![Calculator App](./images/calculator-app.png)
+
+
